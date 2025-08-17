@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serpej
 - 👀 I’m interested in Coding (of coure), but also card- and boardgames! And plants!
 - 💞️ I’m looking to collaborate on anything really, I want to get my hands dirty with projects.
-- 📫 
+
 
 
 <!---
